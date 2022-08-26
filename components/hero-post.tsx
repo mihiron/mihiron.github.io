@@ -1,6 +1,7 @@
 import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+import { MAX_WITH } from '../lib/constants'
 
 type Props = {
   title: string
@@ -18,7 +19,7 @@ const HeroPost = ({
   slug,
 }: Props) => {
   return (
-    <section>
+    <section className={`${MAX_WITH} mx-auto`}>
       <div className="mb-8 md:mb-16">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>
