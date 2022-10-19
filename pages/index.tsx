@@ -24,9 +24,7 @@ export default function Index({ allPosts }: Props) {
           {heroPost && (
             <HeroPost
               title={heroPost.title}
-              date={heroPost.date}
               slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
             />
           )}
         </Container>
@@ -38,9 +36,7 @@ export default function Index({ allPosts }: Props) {
 export const getStaticProps = async () => {
   const allPosts = getAllPosts([
     'title',
-    'date',
     'slug',
-    'excerpt',
   ])
 
   return {

@@ -1,20 +1,13 @@
-import DateFormatter from './date-formatter'
 import PostTitle from './post-title'
 
 type Props = {
   title: string
-  date: string
 }
 
-const PostHeader = ({ title, date }: Props) => {
+const PostHeader = ({ title }: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
-      <div className="max-w-4xl mx-auto">
-        <div className="mb-6 text-lg">
-          <DateFormatter dateString={date} />
-        </div>
-      </div>
     </>
   )
 }

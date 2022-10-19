@@ -1,17 +1,12 @@
-import DateFormatter from './date-formatter'
 import Link from 'next/link'
 
 type Props = {
   title: string
-  date: string
-  excerpt: string
   slug: string
 }
 
 const HeroPost = ({
   title,
-  date,
-  excerpt,
   slug,
 }: Props) => {
   return (
@@ -23,12 +18,6 @@ const HeroPost = ({
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
-          </div>
-        </div>
-        <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
         </div>
       </div>
     </section>
