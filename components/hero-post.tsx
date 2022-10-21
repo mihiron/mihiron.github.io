@@ -32,6 +32,7 @@ const HeroPost = ({
               href="https://github.com/mihiron"
               target='_blank'
               rel='noopener noreferrer'
+              className="text-blue-600 hover:text-blue-800"
             >
               <FontAwesomeIcon
                 icon={faGithub}
@@ -44,6 +45,7 @@ const HeroPost = ({
               href="https://www.linkedin.com/in/fkinoshita/"
               target='_blank'
               rel='noopener noreferrer'
+              className="text-blue-600 hover:text-blue-800"
             >
               <FontAwesomeIcon
                 icon={faLinkedin}
@@ -56,6 +58,7 @@ const HeroPost = ({
               href="https://www.facebook.com/fumihiro.kinoshita"
               target='_blank'
               rel='noopener noreferrer'
+              className="text-blue-600 hover:text-blue-800"
             >
               <FontAwesomeIcon
                 icon={faFacebook}
@@ -68,6 +71,7 @@ const HeroPost = ({
               href="https://twitter.com/mihiro___"
               target='_blank'
               rel='noopener noreferrer'
+              className="text-blue-600 hover:text-blue-800"
             >
               <FontAwesomeIcon
                 icon={faTwitter}
@@ -81,7 +85,7 @@ const HeroPost = ({
         </h4>
         <p className='mb-10'>
           <Link as={`/posts/${slug}`} href="/posts/[slug]">
-            <a className="hover:underline">{title}</a>
+            <a className="hover:underline text-blue-600 hover:text-blue-800">{title}</a>
           </Link>
         </p>
         <h4 className="mb-3 text-3xl">
@@ -99,7 +103,7 @@ const HeroPost = ({
             href="https://www.keio.ac.jp/en/"
             target='_blank'
             rel='noopener noreferrer'
-            className='hover:underline'
+            className='hover:underline text-blue-600 hover:text-blue-800'
           >
             Keio University
           </a>

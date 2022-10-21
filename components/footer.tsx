@@ -14,7 +14,7 @@ const Footer = () => {
               href='https://github.com/mihiron'
               target='_blank'
               rel='noopener noreferrer'
-              className='hover:underline'
+              className='hover:underline text-blue-600 hover:text-blue-800'
             >
               GitHub
             </a>
