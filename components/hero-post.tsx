@@ -20,7 +20,7 @@ const HeroPost = ({
         <h4 className='mb-3 text-3xl'>
           Name
         </h4>
-        <p className='mb-10'>
+        <p className='mb-10 ml-3'>
           Fumihiro Kinoshita（木下文宏）
         </p>
         <h4 className='mb-3 text-3xl'>
@@ -83,7 +83,7 @@ const HeroPost = ({
         <h4 className="mb-3 text-3xl">
           Resume
         </h4>
-        <p className='mb-10'>
+        <p className='mb-10 ml-3'>
           <Link as={`/posts/${slug}`} href="/posts/[slug]">
             <a className="hover:underline text-blue-600 hover:text-blue-800">{title}</a>
           </Link>
@@ -91,13 +91,13 @@ const HeroPost = ({
         <h4 className="mb-3 text-3xl">
           Jobs
         </h4>
-        <p className='mb-10'>
+        <p className='mb-10 ml-3'>
           Software Engineer, Engineering Manager, General Manager at Edridge inc. 2020/4 -
         </p>
         <h4 className="mb-3 text-3xl">
           Degree
         </h4>
-        <p className='mb-10'>
+        <p className='mb-10 ml-3'>
           Bachelor of Environment and Information Studies at&nbsp;
           <a 
             href="https://www.keio.ac.jp/en/"

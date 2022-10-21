@@ -5,10 +5,10 @@ const Footer = () => {
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
         <div className="max-w-4xl mx-auto py-6 items-center">
-          <h3 className="text-l tracking-tighter leading-tight text-center text-gray-500 mb-2">
+          <h3 className="text-base tracking-tighter leading-tight text-center text-gray-500 mb-2">
             COPYRIGHT © 2022 mihiro ALL RIGHTS RESERVED.
           </h3>
-          <div className="text-m tracking-tighter leading-tight text-center text-gray-500">
+          <div className="text-sm tracking-tighter leading-tight text-center text-gray-500">
             The source code of this site is on&nbsp;
             <a 
               href='https://github.com/mihiron'
