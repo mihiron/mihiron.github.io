@@ -1,6 +1,25 @@
 ---
-title: 'Resume'
+title: 'Resume (Japanese version)'
 ---
+
+# 職務経歴書
+
+## 個人データ
+
+- 氏名：木下 文宏
+- ID：mihiro
+- Web：[https://mihiron.github.io/](https://mihiron.github.io/)
+
+## 職務経歴
+
+### 株式会社エドリッジ（2020/4 - ）
+
+- キャリアデザイン事業部 エンジニアリングマネージャー(2021/11 - )
+- ライフデザイン事業部 事業部長 兼 エンジニアリングマネージャー(2021/8 - 2021/11)
+- ライフデザイン事業部 事業部長補佐 兼 エンジニアリングマネージャー(2021/4 - 2021/7)
+- ライフデザイン事業部 エンジニアリングマネージャー(2020/10 - 2021/3)
+- ライフデザイン事業部 リードエンジニア(2020/7 - 2020/9)
+- ライフデザイン事業部 Webエンジニア（2020/4 - 2020/6）
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
