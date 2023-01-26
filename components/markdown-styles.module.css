@@ -18,7 +18,7 @@
 }
 
 .markdown ul ul {
-  @apply list-circle;
+  @apply list-circle mt-0;
 }
 
 .markdown h1 {
@@ -31,4 +31,8 @@
 
 .markdown h3 {
   @apply font-bold text-xl mt-6 mb-4 leading-snug;
+}
+
+.markdown h4 {
+  @apply font-bold text-base mt-6 leading-snug;
 }

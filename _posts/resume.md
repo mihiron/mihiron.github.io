@@ -12,14 +12,14 @@ title: 'Resume (Japanese version)'
 
 ## 職務経歴
 
-### 株式会社エドリッジ（2020/4 - ）
+### 令和2年4月 - 令和4年10月 株式会社エドリッジ (東京)
 
-- キャリアデザイン事業部 エンジニアリングマネージャー(2021/11 - )
-- ライフデザイン事業部 事業部長 兼 エンジニアリングマネージャー(2021/8 - 2021/11)
-- ライフデザイン事業部 事業部長補佐 兼 エンジニアリングマネージャー(2021/4 - 2021/7)
-- ライフデザイン事業部 エンジニアリングマネージャー(2020/10 - 2021/3)
-- ライフデザイン事業部 リードエンジニア(2020/7 - 2020/9)
-- ライフデザイン事業部 Webエンジニア（2020/4 - 2020/6）
+#### 令和3年12月 - 令和4年10月 Engineering Manager
+#### 令和3年8月 - 令和3年11月 General Manager & Engineering Manager
+#### 令和3年4月 - 令和3年7月 Assistant General Manager & Engineering Manager
+#### 令和2年10月 - 令和3年3月 Engineering Manager
+#### 令和2年7月 - 令和2年9月 Lead Engineer
+#### 令和2年4月 - 令和2年6月 Web Engineer
 
 ## ソフトウェア開発
 
@@ -29,9 +29,14 @@ title: 'Resume (Japanese version)'
 ## プログラミングスキル
 
 - JavaScript
-- Ruby
+  - React.js（Next.js）
+  - Vue.js（Nuxt.js）
+- Ruby / Ruby on Rails
+  - v5系, v6系
 - PHP
+  - v7系
 - Python
+  - v3系
 - Go
 - Dart / Flutter
 - C++
