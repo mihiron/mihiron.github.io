@@ -92,7 +92,7 @@ const HeroPost = ({
           Jobs
         </h4>
         <p className='mb-10'>
-          Software Engineer, Engineering Manager, General Manager at Edridge inc. 2020/4 -
+          Software Engineer, Engineering Manager, General Manager at Edridge inc. 2020/4 - 2022/10
         </p>
         <h4 className="mb-3 text-3xl">
           Degree
