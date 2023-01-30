@@ -14,12 +14,12 @@ title: 'Resume (Japanese version)'
 
 ### 令和2年4月 - 令和4年10月 株式会社エドリッジ (東京)
 
-#### 令和3年12月 - 令和4年10月 Engineering Manager
-#### 令和3年8月 - 令和3年11月 General Manager & Engineering Manager
-#### 令和3年4月 - 令和3年7月 Assistant General Manager & Engineering Manager
-#### 令和2年10月 - 令和3年3月 Engineering Manager
-#### 令和2年7月 - 令和2年9月 Lead Engineer
-#### 令和2年4月 - 令和2年6月 Web Engineer
+#### 令和3年12月 - 令和4年10月 Engineering Manager （Career Design事業部）
+#### 令和3年8月 - 令和3年11月 General Manager & Engineering Manager （Life Design事業部）
+#### 令和3年4月 - 令和3年7月 Assistant General Manager & Engineering Manager （Life Design事業部）
+#### 令和2年10月 - 令和3年3月 Engineering Manager （Life Design事業部）
+#### 令和2年7月 - 令和2年9月 Lead Engineer （Life Design事業部）
+#### 令和2年4月 - 令和2年6月 Web Engineer （Life Design事業部）
 
 ## ソフトウェア開発
 
