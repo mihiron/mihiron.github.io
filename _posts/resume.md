@@ -31,6 +31,7 @@ title: 'Resume (Japanese version)'
 - JavaScript
   - React.js（Next.js）
   - Vue.js（Nuxt.js）
+  - jQuery
 - Ruby / Ruby on Rails
   - v5系, v6系
 - PHP

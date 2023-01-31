@@ -18,7 +18,7 @@
 }
 
 .markdown ul ul {
-  @apply list-circle mt-0;
+  @apply list-circle my-0;
 }
 
 .markdown h1 {
