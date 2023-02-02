@@ -28,7 +28,7 @@ title: 'Resume (Japanese version)'
 
 ## プログラミングスキル
 
-- JavaScript
+- JavaScript / TypeScript
   - React.js（Next.js）
   - Vue.js（Nuxt.js）
   - jQuery
